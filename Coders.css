@@ -1,0 +1,27 @@
+.contenedor{
+	
+		border: 1px solid white;
+		width: 800px;
+		margin-left: 200px;				
+	}
+img{
+	height: 200px;
+	width: 200px;
+	display: inline;
+	margin: 0px;
+	float: left;
+	margin: 10px;
+	opacity: 1;
+}
+p{
+	font-size: 30px;
+	text-align: left;
+
+}
+img:hover{
+	opacity: .9;
+}
+hr{
+	height: 3px;
+	background: black;
+}
